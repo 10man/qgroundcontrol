@@ -60,6 +60,16 @@
       <output name="MAIN4">left swashplate servo</output>
       <output name="MAIN5">tail-rotor servo</output>
     </airframe>
+    <airframe id="16002" maintainer="Bart Slinger &lt;bartslinger@gmail.com&gt;" name="Align T-Rex 500">
+      <class>Copter</class>
+      <maintainer>Nick Neander &lt;phusineer@gmail.com&gt;</maintainer>
+      <type>Helicopter</type>
+      <output name="MAIN1">main motor</output>
+      <output name="MAIN2">rear swashplate servo</output>
+      <output name="MAIN3">right swashplate servo</output>
+      <output name="MAIN4">left swashplate servo</output>
+      <output name="MAIN5">tail-rotor servo</output>
+    </airframe>
   </airframe_group>
   <airframe_group image="HexaRotorPlus" name="Hexarotor +">
     <airframe id="7001" maintainer="Lorenz Meier &lt;lorenz@px4.io&gt;" name="Generic Hexarotor + geometry">
